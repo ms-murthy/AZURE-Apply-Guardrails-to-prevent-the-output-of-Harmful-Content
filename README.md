@@ -188,3 +188,8 @@ Deleted the model deployment from **Models + Endpoints**, then deleted the resou
 Completed as part of the **Azure AI/ML/GenAI Job Oriented Program** by [K21Academy](https://www.linkedin.com/company/k21academy).
 
 > ⚠️ If you or someone you know is struggling with self-harm, please contact a local crisis line or a mental health professional.
+
+---
+
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/mmurthy25) · [GitHub](https://github.com/ms-murthy)
+
